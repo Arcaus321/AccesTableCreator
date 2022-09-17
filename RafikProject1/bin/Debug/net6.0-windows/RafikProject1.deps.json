@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RafikProject1/1.0.0": {
+        "runtime": {
+          "RafikProject1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RafikProject1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

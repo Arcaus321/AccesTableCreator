@@ -1,0 +1,17 @@
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\bin\Debug\net6.0-windows\RafikProject1.exe
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\bin\Debug\net6.0-windows\RafikProject1.deps.json
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\bin\Debug\net6.0-windows\RafikProject1.runtimeconfig.json
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\bin\Debug\net6.0-windows\RafikProject1.dll
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\bin\Debug\net6.0-windows\RafikProject1.pdb
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\obj\Debug\net6.0-windows\RafikProject1.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\obj\Debug\net6.0-windows\RafikProject1.Form1.resources
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\obj\Debug\net6.0-windows\RafikProject1.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\obj\Debug\net6.0-windows\RafikProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\obj\Debug\net6.0-windows\RafikProject1.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\obj\Debug\net6.0-windows\RafikProject1.AssemblyInfo.cs
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\obj\Debug\net6.0-windows\RafikProject1.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\obj\Debug\net6.0-windows\RafikProject1.dll
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\obj\Debug\net6.0-windows\refint\RafikProject1.dll
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\obj\Debug\net6.0-windows\RafikProject1.pdb
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\obj\Debug\net6.0-windows\RafikProject1.genruntimeconfig.cache
+D:\Documents\Visual Studio 2022\Projects\RafikProject1\RafikProject1\obj\Debug\net6.0-windows\ref\RafikProject1.dll
